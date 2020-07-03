@@ -1,9 +1,6 @@
-![npm](https://img.shields.io/npm/dt/electron-progressbar.svg?style=flat-square)
-![Hits](https://hitt.herokuapp.com/AndersonMamede/electron-progressbar.svg)
-
-electron-progressbar
+electron-progressbar-fictis
 ================
-> electron-progressbar provides an easy-to-use and highly customizable API to show and control progress bars on Electron applications.
+> A modified version of electron-progressbar for Fictis Prevention
 
 You can customize the aspects of the windows (electron's BrowserWindow), progress bars' visual aspects (CSS), texts and also all visible information.
 
