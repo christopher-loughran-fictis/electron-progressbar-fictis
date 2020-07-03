@@ -69,7 +69,7 @@ Example of an **indeterminate** progress bar - used when your application can't 
 
 ``` js
 const {app} = require('electron');
-const ProgressBar = require('electron-progressbar');
+const ProgressBar = require('electron-progressbar-fictis');
 
 app.on('ready', function() {
   var progressBar = new ProgressBar({
