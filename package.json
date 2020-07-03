@@ -1,0 +1,35 @@
+{
+  "name": "electron-progressbar-fictis",
+  "version": "0.1.0",
+  "description": "modified version of electron-progresbar for fictis prevention",
+  "main": "source/index.js",
+  "license": "MIT",
+  "keywords": [
+    "electron progresbar fictis"
+  ],
+  "author": "Christopher Loughran",
+  "engines": {
+    "node": ">4.0"
+  },
+  "homepage": "https://github.com/christopher-loughran-fictis/electron-progressbar-fictis",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/christopher-loughran-fictis/electron-progressbar-fictis/blob/master/LICENSE"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Christopher Loughran",
+      "email": "christopher.loughran@fictis.fr",
+      "url": "https://github.com/christopher-loughran-fictis/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christopher-loughran-fictis/electron-progressbar-fictis"
+  },
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
+}
