@@ -4,7 +4,6 @@ electron-progressbar-fictis
 
 You can customize the aspects of the windows (electron's BrowserWindow), progress bars' visual aspects (CSS), texts and also all visible information.
 
-[![NPM](https://nodei.co/npm/electron-progressbar.png?downloads=true&stars=true)](https://www.npmjs.com/package/electron-progressbar)
 
 ## Demo
 
