@@ -59,7 +59,7 @@ taskbar for determinate progress bar:<br>
 Install with `npm`:
 
 ``` bash
-$ npm install electron-progressbar --save
+$ npm install electron-progressbar-fictis --save
 ```
 
 ## Examples
@@ -110,7 +110,7 @@ Example of a **determinate** progress bar - used when your application can accur
 
 ``` js
 const {app} = require('electron');
-const ProgressBar = require('electron-progressbar');
+const ProgressBar = require('electron-progressbar-fictis');
 
 app.on('ready', function() {
   var progressBar = new ProgressBar({
@@ -251,4 +251,4 @@ Get or set the `detail`. This information is shown between `text` and the progre
 
 ## License
 
-MIT. See [LICENSE.md](http://github.com/AndersonMamede/electron-progressbar/blob/master/LICENSE) for details.
+MIT. See [LICENSE.md](https://github.com/christopher-loughran-fictis/electron-progressbar-fictis/blob/master/LICENSE) for details.
