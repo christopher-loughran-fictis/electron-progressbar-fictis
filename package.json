@@ -30,6 +30,6 @@
     "url": "https://github.com/christopher-loughran-fictis/electron-progressbar-fictis"
   },
   "devDependencies": {
-    "electron": "^1.7.5"
+    "electron": "^9.1.0"
   }
 }
